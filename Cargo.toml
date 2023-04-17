@@ -1,0 +1,9 @@
+[package]
+name = "enum_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+once_cell = "1.10.0"
+gtk-macros = "0.3.0"
+gtk = { version = "0.6.4", package = "gtk4", features = ["v4_8"] }

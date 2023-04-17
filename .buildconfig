@@ -1,0 +1,12 @@
+[default]
+name=Default
+runtime=podman:135f523dedef1892a171ecae87171822ae3a79a835874f8e9d52368dd978349d
+toolchain=default
+config-opts=
+run-opts=
+prefix=/var/home/gnumdk/.var/app/org.gnome.Builder/cache/gnome-builder/install/enum_rs/podman-135f523dedef1892a171ecae87171822ae3a79a835874f8e9d52368dd978349d
+app-id=
+postbuild=
+prebuild=
+run-command=
+default=true
